@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Simple 4 bit up counter that uses JK flip flops
 
 ## How to test
 
-Explain how to use your project
+Can be tested by connecting the clock and seeing if the leds count up
 
 ## External hardware
 
