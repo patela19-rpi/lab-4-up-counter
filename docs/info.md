@@ -17,4 +17,4 @@ Can be tested by connecting the clock and seeing if the leds count up
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+4 LEDs
